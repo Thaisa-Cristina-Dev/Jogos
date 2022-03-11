@@ -1,1 +1,1 @@
-# Jogos desenvolvidos em python 
+# Jogos desenvolvidos em Python/Javascript
